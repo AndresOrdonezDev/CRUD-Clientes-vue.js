@@ -22,6 +22,11 @@ npm install
 npm run dev
 ```
 
+### Run server DB / open new terminal
+
+```sh
+json-server --watch db.json --port 4000
+```
 ### Compile and Minify for Production
 
 ```sh
